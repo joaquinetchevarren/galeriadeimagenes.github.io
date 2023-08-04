@@ -7,12 +7,18 @@ body {
     border: 5px solid green;
     border-radius: 10px;
     height: 400px;
+    transition: transform 0.3s ease;
     display: grid;
     place-items: center;
     margin: 1em;
     margin-left: 25em;
     margin-right: 25em; 
+
 }
+
+.image:hover {
+    transform: scale(0.9);
+  }
 
 .link-button {
     text-decoration: none;
