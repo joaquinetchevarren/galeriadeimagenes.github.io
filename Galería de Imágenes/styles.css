@@ -1,11 +1,17 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-blanco-hexagono-tecnologia-azul_1017-19366.jpg);
+    background-size: cover; 
 }
 
 .image{
     border: 5px solid green;
     border-radius: 10px;
     height: 400px;
+    display: grid;
+    place-items: center;
+    margin: 1em;
+    margin-left: 25em;
+    margin-right: 25em; 
 }
 
 .link-button {
@@ -22,3 +28,9 @@ body {
     background-color: gray;
     color: white;
 }
+
+h1{ color: #F5986C;
+}
+
+h2{ color: #7FF5EB}
+
