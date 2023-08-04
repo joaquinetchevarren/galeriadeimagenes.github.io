@@ -1,7 +1,6 @@
 body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: rgb(255, 255, 165);
-    text-align: center;
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-blanco-hexagono-tecnologia-azul_1017-19366.jpg);
+    background-size: cover; 
 }
 
 .image{
