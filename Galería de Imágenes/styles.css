@@ -24,7 +24,13 @@ body {
     box-shadow: 2px 3px #888888;
 }
 
+.link-button:hover{
+    background-color: gray;
+    color: white;
+}
+
 h1{ color: #F5986C;
 }
 
 h2{ color: #7FF5EB}
+
