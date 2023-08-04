@@ -7,6 +7,11 @@ body {
     border: 5px solid green;
     border-radius: 10px;
     height: 400px;
+    display: grid;
+    place-items: center;
+    margin: 1em;
+    margin-left: 25em;
+    margin-right: 25em; 
 }
 
 .link-button {
@@ -18,3 +23,8 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+h1{ color: #F5986C;
+}
+
+h2{ color: #7FF5EB}
